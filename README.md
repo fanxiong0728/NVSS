@@ -1,6 +1,6 @@
 # United States Death Statistics
 
-The data used in this R code was extracted using the CDC WONDER System's Multiple Cause of Death Files. The following files were used: Provisional Multiple Cause of Death Data and the Current Final Multiple Cause of Death Data. For more information about CDC WONDER, please see: <https://wonder.cdc.gov/>
+The data used in this repository was extracted using the CDC WONDER System's Multiple Cause of Death Files. The following files were used: Provisional Multiple Cause of Death Data and the Current Final Multiple Cause of Death Data. For more information about CDC WONDER, please see: <https://wonder.cdc.gov/>
 
 ### Statistical Disclosure Control
 
